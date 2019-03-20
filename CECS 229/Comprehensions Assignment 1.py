@@ -1,5 +1,4 @@
 # Hunter Davis
-# Tanner Mindrum
 
 # Question #1
 seconds_in_decade = 60 * 60 * 24 * 365 * 10
