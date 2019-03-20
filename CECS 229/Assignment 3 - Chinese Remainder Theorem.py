@@ -1,6 +1,4 @@
 # Hunter Davis
-# Tanner Mindrum
-
 
 from math import gcd
 
