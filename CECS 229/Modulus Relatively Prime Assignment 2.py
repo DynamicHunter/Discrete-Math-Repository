@@ -1,5 +1,4 @@
 # Hunter Davis
-# Tanner Mindrum
 
 import math
 
