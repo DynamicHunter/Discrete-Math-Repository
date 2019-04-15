@@ -1,5 +1,4 @@
 # Hunter Davis
-# Tanner Mindrum
 
 def RSAencrypt(n, e, message):
 
