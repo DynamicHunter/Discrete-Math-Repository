@@ -90,7 +90,7 @@ def RSAencrypt(n, e, message):
 
 RSAencrypt(2537, 13, "STOP")
 RSAencrypt(2537, 13, "ABC")
-RSAencrypt(2537, 13, "") # Should say error message
+RSAencrypt(2537, 13, "") # Should prompt error message of length 0
 RSAencrypt(256027, 21, "HELLO")
 
 
